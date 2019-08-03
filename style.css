@@ -64,3 +64,9 @@ iframe {
 li {
   font-weight: 700;
 }
+
+
+.navbar-nav li.active > a {
+  background-color: #333;
+  color: #fff;
+}

@@ -1,7 +1,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent ">
     <a class="navbar-brand" href="#">
-          <img  class="img-responsive" src="photos/logo.png" alt="" style="width:250px;height:250px;">
+          <img  class="img-responsive" src="photos/logo.png" alt="" style="width:150px;height:150px;">
         </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -12,16 +12,16 @@
           <a class="nav-link" href="index.php"> <i class="fa fa-home"></i><span class="sr-only">(current) </span> Home</a>
         </li>
            <li class="nav-item">
-          <a class="nav-link" href="photos.php"> <i class="fa fa-image"></i> Virtual tour</a>
+          <a class="nav-link"  href="photos.php"> <i class="fa fa-image"></i> Virtual tour</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="location.php"> <i class="fa fa-map"></i> Location</a>
+          <a class="nav-link"  href="location.php"> <i class="fa fa-map"></i> Location</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="calendar.php"> <i class="fa fa-calendar"></i></i> Avaliability</a>
+          <a class="nav-link"  href="calendar.php"> <i class="fa fa-calendar"></i></i> Avaliability</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.php"> <i class="fa fa-envelope"></i> Contact Us</a>
+          <a class="nav-link"   href="contact.php"> <i class="fa fa-envelope"></i> Contact Us</a>
         </li>
          <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
