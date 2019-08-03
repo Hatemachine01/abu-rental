@@ -9,11 +9,15 @@
 
       <!-- Grid column -->
       <div class="col-md-6 mt-md-0 mt-3">
-
+          <h5 class="text-uppercase">Contact Us</h5>
         <!-- Content -->
-        <h5 class="text-uppercase">Footer Content</h5>
-        <p>Here you can use rows and columns to organize your footer content.
-        </p>
+        <div>
+          <i class="fas fa-phone"></i> Tel:&nbsp; 500-000-0000<br>
+          <i class="fas fa-mobile-alt"></i> Cell:&nbsp; 500-000-0000<br>
+          <i class="fas fa-fax"></i>  Fax:&nbsp; 500-000-0000<br>
+        
+          </address>
+        </div>
 
 
       </div>
@@ -48,7 +52,7 @@
     
 
            <p>
-          <img src="photos/footer2.png" style="height: 150px; width: 150;">
+          <img src="photos/footer2.png" style="height: 110px; width: 110;">
         </p>
 
       </div>
