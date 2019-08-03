@@ -3,15 +3,9 @@ html, body {
   margin: 0;
   background-color: #FFFFFF;
 }
-.wrapper {
-  min-height: 100%;
-  margin-bottom: -50px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+footer {
+  margin-top: 15px;
 }
-
 .flbackdrop {
   position: absolute;
   width: 100%;
@@ -26,9 +20,6 @@ html, body {
   font-size: 20px;
   margin-bottom: 50px;
 }
-.tradingview
-
-
 
 .list-group {
   width: 250px;

@@ -30,7 +30,7 @@
 <div class=" container">  
   <div class="row content">
     <div class="col-lg-8"> 
-      <img  src="house.jpeg" class="house-img img-responsive float-right" style="width:400px;height:250px;"/>   
+      <img  src="photos/house.jpeg" class="house-img img-responsive float-right" style="width:400px;height:250px;"/>   
       <p>
       It’s easy to Seaside.
       Here in Seaside, we don't guard our secrets. We want to share all the great things the North Coast of Oregon has to offer. Whether you're coming for a weeklong vacation, family reunion, convention, tournament, or even if you just ran here from Mt. Hood, Seaside is the ideal coastal playground for kids and kids-at-heart. Dig in to learn more.
@@ -48,7 +48,7 @@
     
     <div class="col-sm-4">
       <div class="umbrella-img">
-        <img src="umbrella.png" alt="Smiley face" height="82" width="82">
+        <img src="photos/umbrella.png" alt="Smiley face" height="82" width="82">
       </div>
       <h3>Ameneties</h3>
       <p class="ameneties">

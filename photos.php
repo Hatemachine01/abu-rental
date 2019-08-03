@@ -16,6 +16,7 @@
   <title>Abu by The Sea</title>
 </head>
 <body body data-spy="scroll" data-target=".navbar" data-offset="50">
+<div class="flbackdrop"></div>
   <?php include 'navbar.php'; ?>
 
     <div class="container">
