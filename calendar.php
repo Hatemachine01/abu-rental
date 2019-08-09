@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+ <link rel="stylesheet" href="css/fakeLoader.min.css">
 <?php include 'navbar.php'; ?>
 <div class="flbackdrop"></div>
 <body body data-spy="scroll" data-target=".navbar" data-offset="50">
@@ -8,6 +9,7 @@
   <iframe src="https://calendar.google.com/calendar/embed?src=lr8n642mbtm43guvup1r8qiakg%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
   </div>
 </div>
+
 <?php include 'footer.php'; ?>
 <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

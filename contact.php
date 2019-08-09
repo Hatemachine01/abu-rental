@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+ <link rel="stylesheet" href="css/fakeLoader.min.css">
 <div class="fakeLoader"></div>
   <head>
     <!-- Required meta tags -->
@@ -52,7 +53,7 @@
                 </div>
             </div>
             <div class="col-md-12">
-                <input type="submit" class="btn btn-success btn-send" value="Send message">
+                <input type="submit" class="btn btn blue btn-send" value="Send message">
             </div>
         </div>
         <div class="row">

@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+ <link rel="stylesheet" href="css/fakeLoader.min.css">
   <?php include 'navbar.php'; ?>
   <body body data-spy="scroll" data-target=".navbar" data-offset="50">
   <div class="flbackdrop"></div>

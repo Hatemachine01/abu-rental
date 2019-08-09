@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 <div class="fakeLoader"></div>
-<?php include 'navbar.php'; ?>
+  
+    <?php include 'navbar.php'; ?>
   <body>
 
 
@@ -10,19 +11,23 @@
 <div class=" container">  
   <div class="row content">
     <div class="col-lg-8"> 
-      <img  src="photos/house.jpeg" class="house-img img-responsive float-right" style="width:400px;height:250px;"/>   
-      <p>
-      It’s easy to Seaside.
-      Here in Seaside, we don't guard our secrets. We want to share all the great things the North Coast of Oregon has to offer. Whether you're coming for a weeklong vacation, family reunion, convention, tournament, or even if you just ran here from Mt. Hood, Seaside is the ideal coastal playground for kids and kids-at-heart. Dig in to learn more.
+      <img  src="photos/housephotos/1.jpg" class="house-img img-responsive float-right" style="width:400px;height:250px;"/>   
+      <p class="lead">
+      On the beach block and has three bedrooms with surfs view, This property is located three houses from the beach on 12th avenue and Promenade. Location is ideal to walk downtown at any hour of the day. Only a short walk to City Center, Restaurants/Bars and 10 minute walk to the Seaside Convention Center. Perfect for families/groups wanting space.
       </p>
-      <p>Hydrangea House and Forget Me Not Cottage exudes classic coastal charm in a quiet residential neighborhood in Seaside. At this vacation rental, you'll get two houses for the price of one, and beach access is less than a block away.</p> 
+      
+      <p class="lead">
+      The main-level has one bedroom two and has a very big bathroom with double sink and a shower tub. The Kitchen, dining and first living room are also located on the main floor.
+      </p>
 
-      <p>As you step up to the front door with the old fashioned glass knob, this is your first clue that you are about to walk into something special for your annual Oregon coast getaway. The downstairs area of the main house features a living room, a fully stocked kitchen for a great meal, a dining room, a sunroom nook, and a bathroom with a claw foot soaking tub and shower. Upstairs in the main house, you will notice that his house is truly from a different era with the low door frames and angled ceilings. At the top of the stairs is a bedroom with a king bed, and a second bedroom with two twin beds. In addition to the sofa sleeper in the living room, six people can sleep in the main house. 
+      <p class="lead">
+      The second level has five bedrooms, two masters bedrooms and one master's bathroom. The third bathroom has double doors and accommodates two bedrooms. Also on the second level there an office and a second living room.
       </p>
 
       <p>
-      The Forget Me Not Cottage is a separate little cottage in the back and is perfect for another little family to have some private space. Just like a storybook house, its quaint charm and quiet character will help you relax on your vacation to Seaside. The cottage sleeps four with a queen bed in the loft and a sofa sleeper in the living room. 
+        <a href="https://www.vrbo.com/1657488?noDates=true">Learn more</a>
       </p>
+      
     </div>
   
     
@@ -33,10 +38,10 @@
       <h3>Ameneties</h3>
       <p class="ameneties">
         <ul class="list-group">
-          <li class="list-group-item list-group-item-warning">5 bedrooms <i class="fa fa-bed"></i></li>
+          <li class="list-group-item list-group-item-warning">6 bedrooms <i class="fa fa-bed"></i></li>
           <li class="list-group-item list-group-item-warning">3 bathrooms <i class="fa fa-bath"></i></li>
           <li class="list-group-item list-group-item-warning">Laundry on site <i class="fa fa-location-arrow"></i></li>
-           <li class="list-group-item list-group-item-warning">5 car private parking lot <i class="fa fa-car"></i></i></li>
+           <li class="list-group-item list-group-item-warning">6 car private parking lot <i class="fa fa-car"></i></i></li>
            <li class="list-group-item list-group-item-warning">500 ft from beach <i class="fa fa-location-arrow"></i></li>
            <li class="list-group-item list-group-item-warning">Cable/Wifi <i class="fa fa-wifi"></i></i></li>
           </ul>            
@@ -44,7 +49,7 @@
         <p>     
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-            <button class="btn btn-danger navbar-btn book-now  ">Book now!</button>
+            <a  class="btn btn-danger navbar-btn book-now"href="https://www.vrbo.com/1657488?noDates=true">Book now!</a>
             </li>
             </ul>   
          </p>

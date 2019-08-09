@@ -25,7 +25,7 @@
 
     </head>
     <nav class="navbar navbar-expand-lg navbar-light bg-transparent ">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="index.php">
           <img  class="img-responsive" src="photos/logo.png" alt="" style="width:150px;height:150px;">
         </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

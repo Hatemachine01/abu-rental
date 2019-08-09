@@ -1,21 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Bootstrap CSS -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="css/fakeLoader.min.css">
-   <!-- Bootstrap core CSS -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Material Design Bootstrap -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/css/mdb.min.css" rel="stylesheet">
-  
-  <title>Abu by The Sea</title>
-</head>
+ <link rel="stylesheet" href="css/fakeLoader.min.css">
 <body body data-spy="scroll" data-target=".navbar" data-offset="50">
 <div class="flbackdrop"></div>
   <?php include 'navbar.php'; ?>
@@ -24,14 +9,53 @@
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="https://www.ten-x.com/company/blog/wp-content/uploads/sites/4/2018/01/the-real-case-for-big-houses.jpeg" alt="First slide">
+          <img class="d-block w-100" src="photos/housephotos/1.jpg" alt="image">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="https://www.ten-x.com/company/blog/wp-content/uploads/sites/4/2018/01/the-real-case-for-big-houses.jpeg" alt="Second slide">
+          <img class="d-block w-100" src="photos/housephotos/2.jpg" alt="image">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="https://www.ten-x.com/company/blog/wp-content/uploads/sites/4/2018/01/the-real-case-for-big-houses.jpeg" alt="Third slide">
+          <img class="d-block w-100" src="photos/housephotos/3.jpg" alt="image">
         </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/4.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/5.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/6.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/7.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/8.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/9.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/10.jpg" alt="image">
+        </div><div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/11.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/12.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/13.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/14.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/15.jpg" alt="image">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="photos/housephotos/16.jpg" alt="image">
+        </div>
+    
       </div>
       <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
