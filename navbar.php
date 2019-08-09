@@ -50,7 +50,7 @@
         </li>
          <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-           <i class="fa fa-info">  Discover Seaside</i>
+           <i class="fa fa-info" style="color: #43BEAD">  Discover Seaside</i>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="https://www.seasideor.com/">Seaside Official Site</a>

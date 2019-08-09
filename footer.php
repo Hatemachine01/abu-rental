@@ -9,15 +9,9 @@
 
       <!-- Grid column -->
       <div class="col-md-6 mt-md-0 mt-3">
-          <h5 class="text-uppercase">Contact Us</h5>
+   
         <!-- Content -->
-        <div>
-          <i class="fas fa-phone"></i> Tel:&nbsp; 500-000-0000<br>
-          <i class="fas fa-mobile-alt"></i> Cell:&nbsp; 500-000-0000<br>
-          <i class="fas fa-fax"></i>  Fax:&nbsp; 500-000-0000<br>
-        
-          </address>
-        </div>
+      
 
 
       </div>

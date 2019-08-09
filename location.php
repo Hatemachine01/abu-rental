@@ -14,7 +14,7 @@
     </div>
     <div class="col-sm-6">
       <div class="google-maps">
-    <iframe src="https://maps.google.com/maps?q=seaside%20&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0"></iframe>
+    <iframe src="https://maps.google.com/maps?q=Promenade%20street%20seaside&t=&z=13&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0"></iframe>
       </div>
     </div>
   </div>
